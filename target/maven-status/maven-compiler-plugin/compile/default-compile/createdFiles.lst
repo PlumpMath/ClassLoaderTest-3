@@ -1,0 +1,3 @@
+classloader\test\ClassLoaderTest.class
+classloader\test\MyClass.class
+classloader\test\JavaClassLoader.class
